@@ -1,50 +1,144 @@
-# README.md
+<div align="center">
+
 # Hi, I'm Habiba Hussien 👋
 
-### Junior Frontend Developer
+### Junior Frontend Developer | JavaScript & React.js
 
-I build responsive and user-friendly web applications using **JavaScript and React.js**.
+</div>
 
-I have hands-on experience working with frontend applications, API integration, reusable components, forms, data fetching, and responsive UI development.
+---
 
-### 🛠️ Tech Stack
+## 👩‍💻 About Me
 
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6+)**
-- **React.js**
-- **Tailwind CSS**
-- **Axios**
-- **TanStack Query**
-- **React Hook Form**
-- **Zod**
-- **Git & GitHub**
+I'm a **Junior Frontend Developer** focused on building responsive and user-friendly web applications using **JavaScript and React.js**.
 
-### 🔧 What I Work With
+I have hands-on experience working with frontend applications, REST API integration, reusable components, forms, data fetching, authentication, and responsive UI development.
 
-- Building reusable React components
-- Consuming and integrating REST APIs
-- Managing server state with TanStack Query
-- Form handling and validation
-- Responsive UI development
-- Authentication and protected routes
-- Debugging and improving existing frontend applications
-- Working with Git and collaborative development workflows
+I'm currently focused on strengthening my **JavaScript fundamentals, React concepts, problem solving, API integration, and frontend architecture**.
 
-### 📌 Featured Projects
+---
 
-Here are some of the projects I've worked on while learning and developing my frontend skills:
+## 🛠️ Tech Stack
 
-- **Products Admin Dashboard** — React dashboard focused on product management, API integration, authentication, data fetching, and responsive UI.
-- **E-commerce Projects** — Frontend practice projects focusing on UI implementation and JavaScript functionality.
-- **JavaScript Projects** — Small applications and UI components built while strengthening JavaScript fundamentals.
+### Languages
 
-### 🌱 Currently Improving
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-I'm currently focusing on strengthening my **JavaScript fundamentals, React concepts, API integration, problem solving, and frontend architecture**.
+### Frontend
 
-I'm also learning more about **software testing and quality assurance** to better understand how reliable software is built and maintained.
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
+### API & Data
+
+<p>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+</p>
+
+### Forms & Validation
+
+<p>
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+## 🔧 What I Work With
+
+- ⚛️ Building reusable React components
+- 🔌 Integrating REST APIs
+- 📦 Managing server state with TanStack Query
+- 📝 Building and validating forms
+- 🔐 Authentication and protected routes
+- 📱 Responsive UI development
+- 🐛 Debugging and improving existing applications
+- 🔄 Working with Git and collaborative development workflows
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Products Admin Dashboard
+
+A React-based admin dashboard focused on product management.
+
+**Key areas:**
+- React.js
+- REST API integration
+- Authentication
+- TanStack Query
+- Reusable components
+- Forms & validation
+- Responsive dashboard UI
+
+---
+
+### 🛒 E-commerce Projects
+
+Frontend projects focused on building e-commerce interfaces and strengthening JavaScript and React fundamentals.
+
+**Focus areas:**
+- Responsive UI
+- Component-based development
+- JavaScript functionality
+- API integration
+- User interactions
+
+---
+
+### 💻 JavaScript Projects
+
+A collection of smaller projects built while strengthening JavaScript fundamentals and problem-solving skills.
+
+---
+
+## 🌱 Currently Improving
+
+I'm currently working on improving my:
+
+- JavaScript fundamentals
+- React.js concepts
+- API integration
+- Problem solving
+- Frontend architecture
+- Software testing fundamentals
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 🚀
+
+</div>
 ### 📫 Connect With Me
 
 - LinkedIn: [Add your LinkedIn profile]
