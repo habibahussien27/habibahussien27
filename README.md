@@ -1,4 +1,4 @@
-<div align="center">
+<div align="start">
 
 # Hi, I'm Habiba Hussien 👋
 
@@ -72,54 +72,6 @@ I'm currently focused on strengthening my **JavaScript fundamentals, React conce
 
 ---
 
-## 🚀 Featured Projects
-
-### 📊 Products Admin Dashboard
-
-A React-based admin dashboard focused on product management.
-
-**Key areas:**
-- React.js
-- REST API integration
-- Authentication
-- TanStack Query
-- Reusable components
-- Forms & validation
-- Responsive dashboard UI
-
----
-
-### 🛒 E-commerce Projects
-
-Frontend projects focused on building e-commerce interfaces and strengthening JavaScript and React fundamentals.
-
-**Focus areas:**
-- Responsive UI
-- Component-based development
-- JavaScript functionality
-- API integration
-- User interactions
-
----
-
-### 💻 JavaScript Projects
-
-A collection of smaller projects built while strengthening JavaScript fundamentals and problem-solving skills.
-
----
-
-## 🌱 Currently Improving
-
-I'm currently working on improving my:
-
-- JavaScript fundamentals
-- React.js concepts
-- API integration
-- Problem solving
-- Frontend architecture
-- Software testing fundamentals
-
----
 
 ## 📫 Connect With Me
 
@@ -134,7 +86,7 @@ I'm currently working on improving my:
 
 ---
 
-<div align="center">
+<div align="start">
 
 ### Thanks for visiting my profile! 🚀
 
